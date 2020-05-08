@@ -18,7 +18,8 @@
 	"files": [
 		"cli.js",
 		"index.js",
-		"lib"
+		"lib",
+		"vendor/cwebp"
 	],
 	"keywords": [
 		"imagemin",
